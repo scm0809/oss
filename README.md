@@ -28,10 +28,12 @@ ex)
 입력한 D-Day박스 우측에 해당 D-Day를삭제할 수 있는 삭제버튼 있음.
 
 4. 실행 방법
+
+(선택사항)
 -git을 설치하지 않은 경우
 1. https://github.com/scm0809/oss.git에 접속 후, 초록색 <> code ▼ 클릭 후 하단에 Download ZIP 클릭해서 다운하고 압축풀기.
-2. 압축을 푼 후, 설치받은 폴더 안의 `index.html` 파일을 오른쪽 마우스 클릭후 연결프로그램에서 브라우저로 열기
-   연결프로그램 브라우저 ex) Google Chorme, Microsoft Edge
+2. 압축을 푼 후, 설치받은 폴더 안의 `index.html` 파일 클릭 (연결프로그램이 브라우저로 설정되어 있지 않다면, 오른쪽 마우스 클릭후 연결프로그램에서 브라우저로 열기
+   연결프로그램 브라우저 ex) Google Chorme, Microsoft Edge)
 
 -git을 설치한 경우
 1. 터미널(CMD, Git Bash 등)에서 원하는 폴더로 이동 (cd 원하는 폴더 경로 입력)
@@ -39,4 +41,6 @@ ex)
 3. 원하는 폴더로 입력한 폴더에 다운로드가 완료 -> 설치받은 폴더 안의 `index.html` 파일을 오른쪽 마우스 클릭후 연결프로그램에서 브라우저로 열기
    연결프로그램 브라우저 ex) Google Chorme, Microsoft Edge
 
-공통적으로 HTML + CSS + JS로 구성되어 있기 때문에 따로 추가 설치 필요 없음.
+(공통) 
+HTML + CSS + JS로 구성되어 있기 때문에 따로 추가 설치없이 실행 가능.
+index.html이 열렸다면 상세기능과 입출력형태에 적은 기능들을 실행 가능.
